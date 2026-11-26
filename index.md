@@ -51,7 +51,7 @@ Resolution: Installation/updating/removal problem states are the most frequent a
 
  
 |                                     topic                                    | replies | views |        tags      |  Named Entity 1 |     Named Entity 2     |              Problem              |
-|:----------------------------------------------------------------------------:|:-------:|:-----:|:------:|:-------------------------:|:--------------:|:---------------------------------------------------------------:|
+|:----------------------------------------------------------------------------:|:-------:|:-----:|:------:|:-----------:|:--------------:|:---------------------------------------------------------------:|
 | Appimage load error (Shotcut)                                                | 38      | 638   |        | App image       |                | Loading / startup                 |
 | Is it possible to install and run Python 3.11 script in virtual environment? | 17      | 3137  | plasma | Python 3.11     |                | Installation / updating / removal |
 | Firefox addon:Open in VLC media player?                                      | 16      | 621   |        | Firefox         | VLC            | Incorrect output/behaviour        |
