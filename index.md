@@ -50,8 +50,8 @@ Complication: But does knowing that users are experiencing different problems ac
 Resolution: Installation/updating/removal problem states are the most frequent across applications in the sample. Although the problem state is not application specific, because 6 applications that serve different functions are associated with installation/updating/removal problems. While all other problem states identified are only associated with 2 or 3 applications.
 
  
-|                                     topic                                    | replies | views |  tags  |  Named Entity 1 | Named Entity 2 |              Problem              |
-|:----------------------------------------------------------------------------:|:-------:|:-----:|:------:|:---------------:|:--------------:|:---------------------------------:|
+|                                     topic                                    | replies | views |        tags      |  Named Entity 1 |     Named Entity 2     |              Problem              |
+|:----------------------------------------------------------------------------:|:-------:|:-----:|:------:|:-------------------------:|:--------------:|:---------------------------------------------------------------:|
 | Appimage load error (Shotcut)                                                | 38      | 638   |        | App image       |                | Loading / startup                 |
 | Is it possible to install and run Python 3.11 script in virtual environment? | 17      | 3137  | plasma | Python 3.11     |                | Installation / updating / removal |
 | Firefox addon:Open in VLC media player?                                      | 16      | 621   |        | Firefox         | VLC            | Incorrect output/behaviour        |
@@ -64,7 +64,8 @@ Resolution: Installation/updating/removal problem states are the most frequent a
 | Installing and using XLibre on Manjaro                                       | 9       | 408   |        | XLibre          | Manjaro        | Installation / updating / removal |
 >**TAB 1: Third-Party Software category sample results ranked by number of replies, with named entities and problem states derived from subject lines.**
 
- .
+```
+.
 └── Third-Party Software Category Search Results/
 ├── Loading/startup/
 │ ├── App image
@@ -83,7 +84,7 @@ Resolution: Installation/updating/removal problem states are the most frequent a
 └── Freezing/unresponsiveness/
 ├── SIGKILL
 └── SIGCHILD
-
+```
   
 
 >**DIA1: Relationships between named entities and problem states, derived from the third-party software category sample, organized according to the smaller of the two sets.**
@@ -130,7 +131,8 @@ Complication: But does TAB 2 visually demonstrate all four problem states associ
   
 
 Resolution: App image falls under all four problem states. Including loading/startup, installation/updating/removal, performance, and crashing. - -DIA 2- - visually showcases that App image falls under all four problem states. While all other applications only fall under one problem state.
- 
+
+```
 .
 └── Third-Party Software Entity Search Results/
 ├── Loading/startup/
@@ -148,14 +150,11 @@ Resolution: App image falls under all four problem states. Including loading/sta
 │ └── UnityHub
 ├── Performance: App image
 └── Crashing: App image
-
+```
   
 
 >**DIA 2 Relationships between named entities and problem states, derived from the third-party software category sample, organized according to the smaller of the two sets.**
 
-  
-
-The "Third- Party Software Category Search Results" node organizes the entities according to their associated problem states, that identifies which applications experience performance and crashing problems, while recognizing that App image falls under all 4 problem states.. In the 3rd child node, performance problems are only associated with App image. Representing that the application failed during performance. In the 4th child node, crashing problems are only associated with App image. Representing that the application crashed. CODA These associations verify the findings of TAB1. In that App image is associated with the most amount of problem states. Showcasing that App image falls under all 4 problem states. While all other applications are only associated with one problem state.
 
 
 
