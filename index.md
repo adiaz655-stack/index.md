@@ -50,18 +50,20 @@ Complication: But does knowing that users are experiencing different problems ac
 Resolution: Installation/updating/removal problem states are the most frequent across applications in the sample. Although the problem state is not application specific, because 6 applications that serve different functions are associated with installation/updating/removal problems. While all other problem states identified are only associated with 2 or 3 applications.
 
  
-|                                     topic                                    | replies | views |        tags      |  Named Entity 1 |     Named Entity 2     |              Problem              |
-|:----------------------------------------------------------------------------:|:-------:|:-----:|:------:|:-----------:|:--------------:|:---------------------------------------------------------------:|
-| Appimage load error (Shotcut)                                                | 38      | 638   |        | App image       |                | Loading / startup                 |
-| Is it possible to install and run Python 3.11 script in virtual environment? | 17      | 3137  | plasma | Python 3.11     |                | Installation / updating / removal |
-| Firefox addon:Open in VLC media player?                                      | 16      | 621   |        | Firefox         | VLC            | Incorrect output/behaviour        |
-| Freecad appimage fails to start after update                                 | 13      | 227   |        | Freecad         | App image      | Loading / startup                 |
-| Cannot build OpenShot                                                        | 12      | 484   |        | Openshot        |                | Loading / startup                 |
-| How do I install "debug package" of kwin?                                    | 12      | 224   | plasma | KWin            |                | Installation / updating / removal |
-| Zombied programs refuse to close with SIGKILL/SIGCHLD                        | 11      | 194   |        | SIGKILL         | SIGCHILD       | Freezing/ unresponsiveness        |
-| How do I install Davinci Resolve on Manjaro Linux?                           | 11      | 1037  |        | Davinci resolve | Manjaro        | Installation / updating / removal |
-| Burn bootable Windows 10 ISO image to USB stick with dd?                     | 11      | 2681  |        | Windows 10      |                | Installation / updating / removal |
-| Installing and using XLibre on Manjaro                                       | 9       | 408   |        | XLibre          | Manjaro        | Installation / updating / removal |
+| Topic | Replies | Views | Tags | Named Entity 1 | Named Entity 2 | Problem |
+|:---|:---:|:---:|:---:|:---:|:---:|:---|
+| Appimage load error (Shotcut) | 38 | 638 | | App image | | Loading / startup |
+| Is it possible to install and run Python 3.11 script in virtual environment? | 17 | 3137 | plasma | Python 3.11 | | Installation / updating / removal |
+| Firefox addon: Open in VLC media player? | 16 | 621 | | Firefox | VLC | Incorrect output/behaviour |
+| Freecad appimage fails to start after update | 13 | 227 | | Freecad | App image | Loading / startup |
+| Cannot build OpenShot | 12 | 484 | | Openshot | | Loading / startup |
+| How do I install "debug package" of kwin? | 12 | 224 | plasma | KWin | | Installation / updating / removal |
+| Zombied programs refuse to close with SIGKILL/SIGCHLD | 11 | 194 | | SIGKILL | SIGCHILD | Freezing/unresponsiveness |
+| How do I install Davinci Resolve on Manjaro Linux? | 11 | 1037 | | Davinci resolve | Manjaro | Installation / updating / removal |
+| Burn bootable Windows 10 ISO image to USB stick with dd? | 11 | 2681 | | Windows 10 | | Installation / updating / removal |
+| Installing and using XLibre on Manjaro | 9 | 408 | | XLibre | Manjaro | Installation / updating / removal |
+
+
 >**TAB 1: Third-Party Software category sample results ranked by number of replies, with named entities and problem states derived from subject lines.**
 
 ```
